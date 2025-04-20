@@ -22,3 +22,9 @@ A simple yet powerful WhoIs domain lookup tool built in Java using Swing GUI. Th
 
 - [Christin Raju](https://github.com/ChristinRaju)
 - [Alan Benny](https://github.com/AlanBennyOfficial)
+
+## 👀 View count
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/whois-dns-lookup/count.svg?"  />
+</div>
