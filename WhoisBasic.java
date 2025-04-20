@@ -5,9 +5,9 @@ import java.io.OutputStreamWriter;
 import java.net.Socket;
 import java.net.UnknownHostException;
 
-public class WhoisExample {
+public class WhoisBasic {
     public static void main(String[] args) throws UnknownHostException, IOException {
-        String domain = "google.com";
+        String domain = "example.com";
         String server = "whois.verisign-grs.com";
         int port = 43;
         String query = domain + "\r\n";
