@@ -14,9 +14,9 @@ A simple yet powerful WhoIs domain lookup tool built in Java using Swing GUI. Th
 
 ## 💻 Technologies Used
 
-- Java
-- Java Swing (GUI)
-- Socket Programming (Port 43 WHOIS queries)
+1. Java
+2. Java Swing (GUI)
+3. Socket Programming (Port 43 WHOIS queries)
 
 ## Created by:
 
