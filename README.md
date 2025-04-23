@@ -22,6 +22,7 @@ A simple yet powerful WhoIs domain lookup tool built in Java using Swing GUI. Th
 
 - [Christin Raju](https://github.com/ChristinRaju)
 - [Alan Benny](https://github.com/AlanBennyOfficial)
+- [Abhay K](https://github.com/Abhaydinesk-10)
 
 ## 👀 View count
 
